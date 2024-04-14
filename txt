@@ -1,0 +1,9 @@
+  Users
+Email: vicdev@gmail.com
+password: 12345678
+type: user
+
+Admin
+Email: admin@gmail.com
+Password: 12345678
+type: admin
